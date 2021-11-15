@@ -32,7 +32,7 @@
 
         <!-- Center Column Content Section-->
         <div class="col-sm-8">
-            <h2 class="text-center"> This is the Home Page</h2>
+            <h2 class="text-center"> This is the <?php echo $page;?> Page</h2>
             <p>The home page content. The home page content. The home page content. The home page content.
             <br>
                 The home page content. The home page content.<br>
